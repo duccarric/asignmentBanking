@@ -1,0 +1,9 @@
+C:\Users\phuong\RiderProjects\baking1\baking1\bin\Debug\baking1.exe
+C:\Users\phuong\RiderProjects\baking1\baking1\bin\Debug\baking1.pdb
+C:\Users\phuong\RiderProjects\baking1\baking1\bin\Debug\Google.Protobuf.dll
+C:\Users\phuong\RiderProjects\baking1\baking1\bin\Debug\MySql.Data.dll
+C:\Users\phuong\RiderProjects\baking1\baking1\bin\Debug\Google.Protobuf.xml
+C:\Users\phuong\RiderProjects\baking1\baking1\bin\Debug\MySql.Data.xml
+C:\Users\phuong\RiderProjects\baking1\baking1\obj\Debug\baking1.csprojResolveAssemblyReference.cache
+C:\Users\phuong\RiderProjects\baking1\baking1\obj\Debug\baking1.exe
+C:\Users\phuong\RiderProjects\baking1\baking1\obj\Debug\baking1.pdb
